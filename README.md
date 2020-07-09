@@ -1,23 +1,11 @@
+<img src="https://res.cloudinary.com/manuelrdsg/image/upload/v1594315673/2qkO_puobxh.gif" align="center">
+
+
 ### Hi! I'm Manuel 👋
 
 I'm a Cross-Platform Developer and enthusiast based in Madrid. I love collecting music records and building things. (He/Him)
 
 
-#### ☕  Wanna chat?
+### ☕  Wanna chat?
 
  👉 You can @ me on [Twitter](www.twitter.com/manuelrdsg) or leave a message in my [portfolio inbox](me.manuelrdsg.com)
- 
-<!--
-**manuelrdsg/manuelrdsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
