@@ -8,4 +8,4 @@ I'm a Cross-Platform Developer and enthusiast based in Madrid. I love collecting
 
 ### ☕  Wanna chat?
 
- 👉 You can @ me on [Twitter](www.twitter.com/manuelrdsg) or leave a message in my [portfolio inbox](me.manuelrdsg.com)
+ 👉 You can @ me on [Twitter](https://www.twitter.com/manuelrdsg) or leave a message in my [portfolio inbox](https://me.manuelrdsg.com)
