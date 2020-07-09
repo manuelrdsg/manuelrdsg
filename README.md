@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi! I'm Manuel 👋
 
+I'm a Cross-Platform Developer and enthusiast based in Madrid. I love collecting music records and building things. (He/Him)
+
+
+#### ☕  Wanna chat?
+
+ 👉 You can @ me on [Twitter](www.twitter.com/manuelrdsg) or leave a message in my [portfolio inbox](me.manuelrdsg.com)
+ 
 <!--
 **manuelrdsg/manuelrdsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
