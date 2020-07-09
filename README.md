@@ -8,9 +8,11 @@ I'm a Cross-Platform Mobile Developer and enthusiast based in Madrid. I love col
 
 ### About me
 
+I studied Informatics Engineering in Cádiz, a small city in the south of Spain, and London. I’m passionate about Cross-Platform development since I wrote a paper regarding the performance of some frameworks, especially React Native. I’m also interested in usability and the way we humans interact with computers, mobile devices and interfaces. In my free time I try to listen and collect as much music as I can, contribute to open source projects and read and write about videogames.
+
 
 ### ☕  Wanna chat?
 
-  👉 You can @ me on [Twitter](https://www.twitter.com/manuelrdsg)
-  
-  👉 Or leave a message in my [portfolio inbox](https://me.manuelrdsg.com)
+   &nbsp;&nbsp;&nbsp; 👉 &nbsp;&nbsp; You can _**@**_ me on [**Twitter**](https://www.twitter.com/manuelrdsg)
+ 
+   &nbsp;&nbsp;&nbsp; 👉 &nbsp;&nbsp; Or leave a message in my [**portfolio inbox**](https://me.manuelrdsg.com)
