@@ -2,7 +2,7 @@
 
 Hi! I'm Manuel (He/Him), a Software Engineer 👨‍💻 &nbsp;based in Madrid. I've been involved with coding since I was 16 yrs old. Some friends introduced me to Minecraft and after playing for some time I started to learn and write my first Java lines with the objective of modding the game. After that, I always have been interested in game development which took me to study Software Engineering at the university.
 
-I run a performance study over the most used cross-platform frameworks for building mobile apps (React Native, Flutter, Ionic, Weeks). Since that I've been passionate about mobile and cross-platform development, currently, I work as a React Native developer, improving and learning new topics on the field each day.
+I ran a performance study over the most used cross-platform frameworks for building mobile apps (React Native, Flutter, Ionic, Weeks). Since that I've been passionate about mobile and cross-platform development, currently, I work as a React Native developer, improving and learning new topics on the field each day.
 
 I love working with React Native, Javascript, iOS, Android, and React. I'm passionate about photography, music and videogames. In my free time, I love collecting records.
 
