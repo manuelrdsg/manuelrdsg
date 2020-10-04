@@ -22,4 +22,7 @@ I love working with React Native, Javascript, iOS, Android, and React. I'm passi
 ### Weekly Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
