@@ -7,7 +7,6 @@ I ran a performance study over the most used cross-platform frameworks for build
 I love working with React Native, Javascript, iOS, Android, and React. I'm passionate about photography, music and videogames. In my free time, I love collecting records.
 
 - ☕️ &nbsp; Wanna chat?: [LinkedIn](https://www.linkedin.com/in/manuelrdsg) || [Twitter](https://twitter.com/manuelrdsg) || [Portfolio](https://me.manuelrdsg.com)
-
 - ⚡️&nbsp; I run a blog which I update sometimes with tech articles: [Blog](https://manuelrds.com)
 
 ### Some Projects
@@ -19,3 +18,8 @@ I love working with React Native, Javascript, iOS, Android, and React. I'm passi
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelrdsg&layout=compact&langs_count=10)](https://github.com/manuelrdsg)
+
+### Weekly Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
