@@ -17,7 +17,7 @@ I love working with React Native, Javascript, iOS, Android, and React. I'm passi
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelrdsg&layout=compact&langs_count=10)](https://github.com/manuelrdsg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelrdsg&layout=compact&langs_count=9&hide=html)](https://github.com/manuelrdsg)
 
 ### Weekly Stats
 
