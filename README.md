@@ -23,10 +23,10 @@ I love working with React Native, Javascript, iOS, Android, and React. I'm passi
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 57 mins   ███████████████▒░░░░░░░░░   61.24 % 
-textmate     34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-YAML         31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Text         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Prolog       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+TypeScript   1 hr 14 mins    █████████▓░░░░░░░░░░░░░░░   38.88 % 
+YAML         35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.71 % 
+textmate     34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Text         27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Prolog       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 ```
 <!--END_SECTION:waka-->
