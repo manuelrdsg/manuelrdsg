@@ -23,10 +23,9 @@ I love working with React Native, Javascript, iOS, Android, and React. I'm passi
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   4 hrs 13 mins   █████████████████████▓░░░   87.00 % 
-JSON         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Text         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Bash         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+TypeScript   4 hrs 10 mins   ███████████████████████░░   91.90 % 
+Text         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Bash         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 <!--END_SECTION:waka-->
