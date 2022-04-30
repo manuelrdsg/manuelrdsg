@@ -1,10 +1,10 @@
 ### About Me &nbsp;🐢
 
-Hi! I'm Manuel (He/Him), a Software Engineer 👨‍💻 &nbsp;based in Madrid. I've been involved with coding since I was 16 yrs old. Some friends introduced me to Minecraft and after playing for some time I started to learn and write my first Java lines with the objective of modding the game. After that, I always have been interested in game development which took me to study Software Engineering at the university.
+¡Hola! I'm Manuel (He/Him), a Software Engineer 👨‍💻 &nbsp;based in Europe. Mostly in Madrid, Spain, although I love to travel and work remotely from different cities. I studied Informatics Engineering in Cádiz, a small town in the south of Spain, and London. 
 
-I ran a performance study over the most used cross-platform frameworks for building mobile apps (React Native, Flutter, Ionic, Weeks). Since that I've been passionate about mobile and cross-platform development. Currently, I work as a React Native developer, improving and learning new topics on the field each day.
+I ran a performance study over the most used cross-platform frameworks for building mobile apps (React Native, Flutter, Ionic, Weex). Since that I've been passionate about mobile development. Currently, I work as a Mobile Lead, improving and learning new topics on the field each day.
 
-I love working with React Native, Javascript, iOS, Android, and React. I'm passionate about photography, music and videogames. In my free time, I love collecting records.
+React Native, Javascript, iOS, Android, and React are some of the technologies I'm intereted in. I love to listen to and collect as much music as I can and almost always carry a film camera with me so I can take some pictures.
 
 - ☕️ &nbsp; Wanna chat?: [LinkedIn](https://www.linkedin.com/in/manuelrdsg) || [Twitter](https://twitter.com/manuelrdsg) || [Portfolio](https://me.manuelrdsg.com)
 - ⚡️&nbsp; I run a blog which I update sometimes with tech articles: [Blog](https://manuelrdsg.com)
