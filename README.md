@@ -24,11 +24,11 @@ React Native, Javascript, iOS, Android, and React are some of the technologies I
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       6 hrs 4 mins    █████████████▒░░░░░░░░░░░   53.41 %
-JavaScript       4 hrs 31 mins   ██████████░░░░░░░░░░░░░░░   39.78 %
-YAML             41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-Text             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+TypeScript       8 hrs 6 mins    ███████████████░░░░░░░░░░   59.81 %
+JavaScript       4 hrs 40 mins   ████████▓░░░░░░░░░░░░░░░░   34.48 %
+YAML             41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Text             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
