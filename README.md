@@ -1,31 +1,7 @@
-### About Me &nbsp;🐢
-
-¡Hola! I'm Manuel (He/Him), a Software Engineer 👨‍💻 &nbsp;based in Europe. Mostly in Madrid, Spain, although I love to travel and work remotely from different cities. I studied Informatics Engineering in Cádiz, a small town in the south of Spain, and London. 
-
-I ran a performance study over the most used cross-platform frameworks for building mobile apps (React Native, Flutter, Ionic, Weex). Since that I've been passionate about mobile development. Currently, I work as a Mobile Lead, improving and learning new topics on the field each day.
-
-React Native, Javascript, iOS, Android, and React are some of the technologies I'm intereted in. I love to listen to and collect as much music as I can and almost always carry a film camera with me so I can take some pictures.
-
-- ☕️ &nbsp; Wanna chat?: [LinkedIn](https://www.linkedin.com/in/manuelrdsg) || [Twitter](https://twitter.com/manuelrdsg) || [Portfolio](https://me.manuelrdsg.com)
-- ⚡️&nbsp; I run a blog which I update sometimes with tech articles: [Blog](https://manuelrdsg.com)
-
-### Some Projects
-
-- [Cross-Platform Frameworks Performance study](https://rodin.uca.es/handle/10498/20951) - Study measuring and comparing performance between the most used cross-platforms frameworks.
-- [Netflax Calendar](https://github.com/manuelrdsg/NetflaxCalendar) - A bot that automatically adds to your google calendar the release dates of your favourite Netflix shows
-- [TextAdventures](https://github.com/manuelrdsg/TextAdventures) - An small text-based game inspired by Zork written in Java using design patterns best practices.
-
-### Weekly Stats
-
-<!--START_SECTION:waka-->
-
-```text
-TypeScript       3 hrs 54 mins   ██████████░░░░░░░░░░░░░░░   39.79 %
-JSON             2 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
-JavaScript       1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-textmate         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Text             44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-yarn.lock        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+  <samp>
+    <a href="https://me.manuelrdsg.com">me</a> .
+    <a href="https://manuelrdsg.com">blog</a> .
+    <a href="https://twitter.com/manuelrdsg">tweets</a>
+  </samp>
+</p>
