@@ -15,10 +15,6 @@ React Native, Javascript, iOS, Android, and React are some of the technologies I
 - [Netflax Calendar](https://github.com/manuelrdsg/NetflaxCalendar) - A bot that automatically adds to your google calendar the release dates of your favourite Netflix shows
 - [TextAdventures](https://github.com/manuelrdsg/TextAdventures) - An small text-based game inspired by Zork written in Java using design patterns best practices.
 
-### Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelrdsg&layout=compact&langs_count=9&hide=html)](https://github.com/manuelrdsg)
-
 ### Weekly Stats
 
 <!--START_SECTION:waka-->
